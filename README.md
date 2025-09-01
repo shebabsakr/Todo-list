@@ -1,0 +1,1 @@
+Todo List App A simple console-based Todo List application in Python. Aim: To provide a user-friendly interface for managing personal tasks using object-oriented programming. Features: Add tasks Remove tasks View all tasks Exit the application Handles invalid input
